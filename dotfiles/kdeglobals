@@ -1,0 +1,10 @@
+[Colors:View]
+BackgroundNormal=/home/hamato/.config/qt6ct/colors/pywal.conf
+
+[KDE]
+ShowDeleteCommand=false
+widgetStyle=qt6ct-style
+
+[PreviewSettings]
+EnableRemoteFolderThumbnail=false
+MaximumRemoteSize=0

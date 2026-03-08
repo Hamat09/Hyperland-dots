@@ -1,0 +1,29 @@
+{
+    "checksum": "74287e944829a8fc0ec20b603e1ffea0",
+    "wallpaper": "/home/hamato/Wallpapers/a_crane_with_a_light_on_top.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f1c25",
+        "foreground": "#c3c6c8",
+        "cursor": "#c3c6c8"
+    },
+    "colors": {
+        "color0": "#0f1c25",
+        "color1": "#0E7EA1",
+        "color2": "#5E7B95",
+        "color3": "#10829D",
+        "color4": "#1092B0",
+        "color5": "#12A1BE",
+        "color6": "#14A7C5",
+        "color7": "#c3c6c8",
+        "color8": "#5f6b74",
+        "color9": "#0E7EA1",
+        "color10": "#5E7B95",
+        "color11": "#10829D",
+        "color12": "#1092B0",
+        "color13": "#12A1BE",
+        "color14": "#14A7C5",
+        "color15": "#c3c6c8"
+    }
+}
